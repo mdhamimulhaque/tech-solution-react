@@ -1,0 +1,33 @@
+.about-company-icon{
+    width: 100%;
+}
+.about-company-img img{
+    height:350px;
+    width: 100%;
+    margin-top: 100px;
+
+}
+.about-Company-icon{
+    color:#43BAFF
+}
+/* table layout-768px */
+@media screen and (min-width: 768px) and (max-width: 991px){
+
+    .about-company-img img{
+        margin:30px 0px;
+    
+    }
+
+}
+
+/* mobile layout-320px */
+@media screen and (max-width: 767px){
+	
+    .about-company-img img{
+        height:280px;
+        margin:30px 0px;
+    
+    }
+
+	
+}

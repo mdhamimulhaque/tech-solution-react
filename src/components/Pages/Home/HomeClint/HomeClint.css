@@ -1,0 +1,21 @@
+
+
+
+/* mobile layout-320px */
+@media screen and (max-width: 767px){
+	
+    .clint-img{
+       margin-left:15px
+    }
+
+	
+}
+
+/* wide mobile layout-480px */
+@media screen and (min-width: 480px) and (max-width: 767px){
+    .clint-img{
+        margin-left:0px
+     }
+ 
+
+}

@@ -1,0 +1,28 @@
+
+.banner2nd{
+    height:350px;
+    position: absolute;
+    
+
+}
+
+.secondBanner-bg-box{
+    position: relative;
+    background-color:#43baff42;
+    height: 350px;
+    width: 100%;
+    color:#fff
+   
+}
+.secondBanner-bg-box .banner2-small{
+    padding-top:130px;
+}
+
+.secondBanner-bg-box button{
+    background-color: #7141B1;
+    color:#fff
+}
+.secondBanner-bg-box button:hover{
+    background-color: #43BAFF;
+    color:#fff
+}

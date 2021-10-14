@@ -1,0 +1,21 @@
+.whyChoose{
+    background: #141D38;
+    color:#AEAACB
+}
+.whyChoose h5{
+    color:#fff
+}
+.whyChoose a{
+   text-decoration: none;
+   color:#fff
+}
+.whyChoose:hover{
+    background: #fff;
+    color:#111
+}
+.whyChoose:hover h5{
+    color:#7141B1
+}
+.whyChoose:hover a{
+    color:#7141B1
+}

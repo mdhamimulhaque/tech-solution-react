@@ -1,0 +1,17 @@
+.indexBox{
+    border:2px solid #43BAFF;
+    padding-top:20px;
+    padding-bottom:20px;
+    
+}
+
+.indexIcon{
+    color:#43BAFF
+}
+.indexBox:hover{
+    background-color: #43BAFF;
+    color:#fff
+}
+.indexBox:hover .indexIcon{
+    color:#fff !important
+}

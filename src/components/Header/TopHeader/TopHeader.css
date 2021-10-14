@@ -1,0 +1,32 @@
+.main-box{
+    height:30px;
+    background-color: #141D38;
+    color:#B5B5B5;
+}
+.header-top{
+    height: 30px;
+    font-size: 16px;
+}
+
+.icon{
+    margin-right: 10px;
+}
+.icon:hover{
+    color:#fff
+}
+.top-contact{
+    text-align: end;
+}
+.top-header-contact{
+    margin:10px 15px 0px 10px
+}
+.top-header-contact:hover{
+    color:#fff
+}
+ /* ============= portrait Mobile ============  */
+@media screen and (max-width:480px){
+    .main-box{
+      display: none;
+    }
+}
+   

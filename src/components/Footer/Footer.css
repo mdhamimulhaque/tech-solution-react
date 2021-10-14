@@ -1,0 +1,26 @@
+
+.footer-logo{
+    width: 150px;
+    margin:0 auto;
+    padding-top: 70px;
+    margin-bottom: 30px;
+   
+}
+footer{
+    background: #141D38;
+    color:#fff
+}
+.infoIcon{
+    color:#AEAACB;
+    font-size:14px
+}
+.footer-icon{
+    padding-bottom: 50px;
+}
+.icon{
+    margin-right: 10px;
+    color:#AEAACB;
+}
+.icon:hover{
+    color:#fff
+}

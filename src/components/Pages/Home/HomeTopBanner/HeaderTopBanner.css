@@ -1,0 +1,78 @@
+
+.top-banner{
+    position: absolute;
+    width: 100%;
+    
+}
+.dark-shape{
+  position: relative;
+   height:500px;
+   width:100%;
+   top:0;
+   left:0;
+   background: rgba(12, 12, 12, 0.6);
+   color:#fff
+}
+
+.content-banner-box{
+  margin-left: 70px;
+  width: 50%;
+}
+.banner-small{
+    padding-top: 100px;
+}
+
+.content-banner-box h1{
+    font-size: 55px;
+}
+.bannerBtn{
+    background-color: #7141B1;
+    color:#fff;
+   padding: 8px 10px;
+}
+.bannerBtn:hover{
+    background-color: #43BAFF;
+    color:#fff
+}
+
+
+/* table layout-768px */
+@media screen and (min-width: 768px) and (max-width: 991px){
+
+    .content-box{
+        margin-left:0px;
+        padding:0px 25px;
+        width: 70%;
+      }
+
+      .content-banner-box h1{
+        font-size: 45px;
+    }
+
+}
+
+/* mobile layout-320px */
+@media screen and (max-width: 767px){
+	.content-banner-box{
+        margin-left:0px;
+        padding:0px 25px;
+        width: 100%;
+      }
+
+    .content-banner-box h1{
+        font-size: 35px;
+    }
+  
+	
+}
+/* wide mobile layout-480px */
+@media screen and (min-width: 480px) and (max-width: 767px){
+		
+
+}
+
+
+/* iphone 4+/pixel-ragio-2 */
+@media screen and (min-width: 768px) and (max-width: 991px){
+	
+}
